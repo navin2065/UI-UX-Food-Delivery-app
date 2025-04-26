@@ -1,4 +1,4 @@
-# UI-UX-Food-Delivery-app
+# UI-UX-Food-Delivery-app Using Figma
 ![Image](https://github.com/user-attachments/assets/5fd231e6-c512-44c4-8d26-48ede275c853)
 ![Image](https://github.com/user-attachments/assets/8756261c-70bb-40c1-b91b-d2ac589fcfc8)
 ![Image](https://github.com/user-attachments/assets/cff84a54-9dce-4421-a5ad-76e69463bb20)
